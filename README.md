@@ -3,6 +3,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=clearclown&label=Profile%20views&color=0e75b6&style=flat" alt="clearclown" /> </p>
 
+<p align="left">
+  <a href="https://www.reddit.com/user/CLEACLOWN">
+    <img height="20" src="https://img.shields.io/reddit/user-karma/combined/CLEACLOWN?label=Reddit&logo=reddit&style=flat" />
+  </a>
+  <a href="http://qiita.com/clearcleaclown">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/clearcleaclown/posts.svg" />
+  </a>
+  <//qiita.com/clearcleaclown">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/clearcleaclown/contributions.svg" />
+  </a>
+</p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=clearclown" alt="clearclown" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/arealnormalman" target="blank"><img src="https://img.shields.io/twitter/follow/arealnormalman?logo=twitter&style=for-the-badge" alt="arealnormalman" /></a> </p>
